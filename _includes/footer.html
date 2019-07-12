@@ -1,0 +1,14 @@
+{% if site.theme_settings.katex %}
+<script src="{{ "/assets/js/katex_init.js" | relative_url }}"></script>
+{% endif %}
+
+{% if site.theme_settings.footer_text %}
+<footer class="site-footer">
+	<p class="text">{{ site.theme_settings.footer_text }}</p>
+    <div class="footer-icons">
+        <ul>
+            {% include icons.html %}
+        </ul>
+    </div>
+</footer>
+{% endif %}
