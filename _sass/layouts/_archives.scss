@@ -1,0 +1,21 @@
+.post-list {
+  list-style: none;
+  list-style-position: outside;
+  padding-left: 1em;
+  li {
+    .day-span {
+      display: block;
+      float: left;
+      clear: left;
+      margin-left: -1em;
+      color: rgba($text-color, 0.5);
+    }
+    .post-span {
+      display: block;
+      margin-left: 1em;
+      a {
+        color: $text-color;
+      }
+    }
+  }
+}
