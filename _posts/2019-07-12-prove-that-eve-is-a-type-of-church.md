@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove that Eve is a Type of Christ"
+title: "Prove that Eve is a Type of Church"
 tags: [Eve, type, Christ]
 ---
 
