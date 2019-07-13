@@ -12,13 +12,8 @@ But have you heard that God, our Creator, made us to marry Him?
 Isaiah 54:5
 : For *your Maker is your Husband*; / Jehovah of hosts is His name. / And the Holy One of Israel is your Redeemer; / He is called the God of all the earth.
 
-
-
-<!-- Isaiah 54:5 (we are "made" to marry God)
-
-So God is our Maker.
-And our Maker could be our Creater, brother, king, etc.
-But He could be our Husband.
-
-Israelites in the Old Testament loved so many other things.
-And Jehovah God wanted them to know they're made to marry Him. -->
+In this verse, Isaiah emphasized "Maker", not "King" or anything else.
+Because for Him, our Maker, to be our Husband is the purpose we were made!
+At that time, poeple of Israel loved many things other than God Himeself.
+But God want us to know we're made to love and marry Him.
+How amazing His purpose for man is!
