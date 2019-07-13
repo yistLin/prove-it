@@ -20,21 +20,33 @@ John 11:14
 
 Actually in the Old Testament, some also referred sleep to death.
 Daniel described the dead as "those who sleep in the dust of the ground".
-And Job described death as sleeping and being at rest.
+In the Book of Job, a man's death was describe as lying down and not rising up.
 
 Daniel 12:2
 : And many of those who are *sleeping in the dust of the ground* will awake, ...
 
-Job 3:11
-: Why did I not *die* at birth, / Come forth from the womb and expire?
+Job 14:10
+: But a man dies and is laid low; / Yes, a man expires, and then where is he?
 
-Job 3:13
-: For now I would have lain down and been undisturbed; / I would *have slept*; then I would *have been at rest*
+Job 14:12
+: So a man lies down and does not rise up; / Until the heavens are no more, he will not awake, / Nor will he be roused from his sleep.
 
-Job 3:17
-: There the wicked cease from their troubling, / And there the weary reset.
+There's even a term "sleep of death" in Psalm.
 
-Paul the Apostle also comforted the living and remaining believers by saying that the dead in Christ just fell asleep.
+Psalm 13:3
+: Consider and answer me, O Jehovah my God; / Enlighten my eyes lest I *sleep the sleep of death*,
+
+In the Acts of the Apostles, Stephen's death was described as falling asleep.
+
+Acts 7:60
+: And kneeling down, he cried out with a loud voice, Lord, do not hold this sin against them. And when he had said this, he *fell asleep*.
+
+In 1 Corinthians, a wife is free to be married after her husband falls asleep.
+
+1 Corinthians 7:39
+: A wife is bound for so long a time as her husband lives; but should the husband *fall asleep*, she is free to be married to whom she wishes, only to one in the Lord.
+
+Paul also comforted the living and remaining believers by saying that the dead in Christ just fell asleep.
 And they will rise first on the day the Lord descends from heaven.
 
 1 Thessalonians 4:15
