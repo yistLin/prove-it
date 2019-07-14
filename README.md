@@ -6,5 +6,10 @@ who realized that there's really a need of thorough understanding of the stateme
 
 Hopefully these records and proofs could be helpful to you too.
 
+### How to Write / Edit Posts?
+
+Each post you see on the website actually comes from a corresponding file in **_posts** folder.
+[Go into the folder](_posts), and you will see a tutorial there.
+
 ## License
 [The MIT License (MIT)](https://github.com/rohanchandra/type-theme/blob/master/LICENSE)
