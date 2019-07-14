@@ -55,3 +55,8 @@ header {
     @extend %padding-regular;
   }
 }
+ol,
+ul {
+  list-style-position: outside;
+  margin-left: 1em;
+}
