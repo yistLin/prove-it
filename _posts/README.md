@@ -204,6 +204,7 @@ We won't use the three biggest ones, since the title of post is using the forth 
 
 This is used to associate definitions with terms.
 And I think it's good for showing verses.
+
 Unfortunately, I can't show the result here because this is not supported in pure Markdown (what I use to write this document).
 But it will display correctly in compiled posts.
 
@@ -231,10 +232,10 @@ John 1:1
 A simple link can be created by surrounding the text with square brackets and the link URL with parentheses:
 
 ~~~markdown
-This is a link to the [kramdown homepage]((http://kramdown.gettalong.org)).
+This is a link to the [kramdown homepage](http://kramdown.gettalong.org).
 ~~~
 
-This is a link to the [kramdown homepage]((http://kramdown.gettalong.org)).
+This is a link to the [kramdown homepage](http://kramdown.gettalong.org).
 
 ### Footnotes
 
@@ -250,6 +251,7 @@ Unfortunately, I can't show the result either because this is not supported in p
 This is a text with a footnote[^1].
 
 [^1]: And here is the definition.
+Of course you can leave a like here, [Go to Google](www.google.com)!
 ~~~
 
 ## Conclusion
