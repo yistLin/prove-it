@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove that Church is Female"
+title: "Prove That Church Is Female"
 tags: [church, female]
 ---
 

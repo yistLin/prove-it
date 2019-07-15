@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove that Man is a Vessel"
+title: "Prove That Man Is a Vessel"
 tag: [man, vessel]
 ---
 

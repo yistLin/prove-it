@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove that Adam is a Type of Christ"
+title: "Prove That Adam Is a Type of Christ"
 tags: [Adam, type, Christ]
 ---
 

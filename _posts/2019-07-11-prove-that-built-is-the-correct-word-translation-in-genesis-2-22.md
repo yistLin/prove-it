@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove that 'Built' is the Correct Word Translation that Should Be Used in Genesis 2:22 Instead of 'Made', 'Fashioned' or Any Other Word Choice"
+title: "Prove That 'Built' Is the Correct Word Translation That Should Be Used in Genesis 2:22 Instead of 'Made', 'Fashioned' or Any Other Word Choice"
 tags: [build, translation]
 ---
 

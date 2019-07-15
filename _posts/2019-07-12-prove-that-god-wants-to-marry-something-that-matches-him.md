@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove that God Wants to Marry Something that Matches Him"
+title: "Prove That God Wants to Marry Something That Matches Him"
 tags: [God, marry, match]
 ---
 

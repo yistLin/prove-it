@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Prove that Blood is for Redemption, to Deal with Sins and Purchase the Church"
-tags: [blood, redemption, sins, church]
+title: "Prove That Blood Is for Redemption, to Deal with Sins and Purchase the Church"
+tags: [blood, redemption, sins, purchase, church]
 ---
 
 \[ TO BE UPDATED \]

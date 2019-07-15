@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove that Sleep in the Bible Symbolizes Death"
+title: "Prove That Sleep in the Bible Symbolizes Death"
 tags: [sleep, death]
 ---
 
