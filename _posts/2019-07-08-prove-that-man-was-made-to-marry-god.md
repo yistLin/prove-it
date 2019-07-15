@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove that Man was Made to Marry God"
+title: "Prove That Man Was Made to Marry God"
 tags: [man, marry, God]
 ---
 

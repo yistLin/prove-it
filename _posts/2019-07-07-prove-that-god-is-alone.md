@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove that God is Alone"
+title: "Prove That God Is Alone"
 tags: [God, alone]
 ---
 

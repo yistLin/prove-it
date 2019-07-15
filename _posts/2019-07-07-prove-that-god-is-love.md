@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove that God Is Love"
+title: "Prove That God Is Love"
 tags: [God, love]
 ---
 
