@@ -12,8 +12,9 @@ For example, `2019-07-07-prove-that-god-is-love.md` is a valid file name.
 But names like `2019-01-prove-that-blabla.md`, `2019-01-01.md`, or `2019-01-01-prove-that-blabla` are invalid, and these could cause some troubles to the website.
 
 The date in the file name will be **the date of the post**.
-But the other part has nothing to do with the title of the post.
-It's just for the others to know the content of the file.
+And the rest of it will appear in the link of the post.
+But it has nothing to do with the title of the post.
+It's also for the others to know the content of the file when they have a glance at the file name.
 So make sure you give it a short but clear name.
 
 ## Post Title and Tags
