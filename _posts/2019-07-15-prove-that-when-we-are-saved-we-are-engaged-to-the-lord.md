@@ -5,3 +5,9 @@ tags: [save, engage]
 ---
 
 \[ TO BE UPDATED \]
+
+<!--
+1 Cor. 3:6 (they got saved)
+2 Cor. 11:2 (they got betrothed)
+Hosea 2:19-20
+-->
