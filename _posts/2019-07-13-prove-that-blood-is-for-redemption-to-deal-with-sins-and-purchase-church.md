@@ -5,7 +5,7 @@ tags: [blood, redemption, sins, purchase, church]
 ---
 
 When the soldier pierced Jesus' side, there came out blood and water.
-And the blood is shed for for redemption.
+And the blood is shed for redemption.
 
 First, we have to know that the redemption is through the blood.
 
