@@ -6,7 +6,7 @@ To edit a post, just edit the specific file.
 
 ## File Name
 
-The file name should be in this format: **YYYY-MM-DD-prove-that-bla-bla-bla.md**.
+The file name should be in this format: **YYYY-MM-DD-prove-that-blah-blah-blah.md**.
 
 For example, `2019-07-07-prove-that-god-is-love.md` is a valid file name.
 But names like `2019-01-prove-that-blabla.md`, `2019-01-01.md`, or `2019-01-01-prove-that-blabla` are invalid, and these could cause some troubles to the website.
@@ -91,9 +91,8 @@ And it'd be better to have one spare line after the YAML and before the content.
 ~~~
 
 In the following part, I will ignore the YAML, focusing on text formatting using Markdown.
-And I'll exlain how things work in code blocks.
+And I'll explain how things work in code blocks.
 The result would be put right after the code blocks.
-
 
 ### Emphasis
 
