@@ -5,3 +5,10 @@ tags: [Egypt, baptize]
 ---
 
 \[ TO BE UPDATED \]
+
+<!--
+- 1 Cor. 10:2
+- Exo. 14
+    - vv. 13 mentioned the salvation of Jehovah, which is Jesus
+    - vv. 19 literally said they were 'baptized' into the cloud, which is the Spirit
+-->

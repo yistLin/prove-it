@@ -5,3 +5,8 @@ tags: [regenerate, baptize]
 ---
 
 \[ TO BE UPDATED \]
+
+<!--
+- Mark 16:16
+- Acts 8:36-37
+-->
