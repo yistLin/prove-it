@@ -255,6 +255,19 @@ This is a text with a footnote[^1].
 Of course you can leave a like here, [Go to Google](www.google.com)!
 ~~~
 
+### Escaping Characters
+
+These characters need to be escaped in Markdown in order to appear as literal characters instead of performing some markdown functions:
+`\`, <code>&#96;</code>, `*`, `_`, `{`, `}`, `[`, `]`, `(`, `)`, `#`, `+`, `-`, `!`
+
+Normally, we just escape these with a backslash character, like this:
+
+~~~
+\\, \`, \*, \_, \{, \}, \[, \], \(, \), \#, \+, \-, \!
+~~~
+
+\\, \`, \*, \_, \{, \}, \[, \], \(, \), \#, \+, \-, \!
+
 ## Conclusion
 
 Apart from what I have introduced above,
