@@ -4,20 +4,24 @@ title: "Prove That Water Is for Life Imparting, to Deal with Death; And for Prod
 tags: [water, life, death, church]
 ---
 
-\[ TO BE UPDATED \]
+Water came out from the pierced side of Jesus for life imparting.
 
-<!--
-for life imparting
-Eph. 5:26
+Ephesians 5:26
+: That He might sanctify her, cleansing her by the washing of the water in the word,
 
-to deal with death
-1 Cor. 12:13 (drink spirit)
-Rom. 8:11 (the spirit can deal with death)
+The water represents the Spirit.
+We drink the Spirit, and the Spirit dwelling in us deals with the death.
 
-for producing the church
-Eph. 5:29-30
+1 Corinthians 12:13
+: For also in one Spirit we were all baptized into one Body, whether Jews or Greeks, whether slaves or free, and were all given to drink one Spirit.
 
-furthermore, two aspects of sanctification
-1 Peter 1:2 (by blood)
-Eph. 5:26 (by water)
--->
+Romans 8:11
+: And if the Spirit of the One who raised Jesus from the dead dwells in you, He who raised Christ from the dead will also give life to your mortal bodies through His Spirit who indwells you.
+
+And the water, typifying the Spirit, produces the church.
+
+Ephesians 5:29
+: For no one ever hated his own flesh, but nourishes and cherishes it, even as Christ also the church,
+
+Ephesians 5:30
+: Because we are members of His Body.
