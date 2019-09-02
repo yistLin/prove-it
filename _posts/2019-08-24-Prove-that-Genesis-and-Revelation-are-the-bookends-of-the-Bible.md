@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: "Prove that Genesis and Revelation are the bookends of the Bible. There are 4 chapters in these books you can trace God's Eternal Purpose through. Which 4 chapters and why?"
 tags: [God's building, bookends]
 ---
