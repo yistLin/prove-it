@@ -1,0 +1,26 @@
+---
+layout: page
+permalink: /categories/
+title: Categories
+---
+
+{% for category in site.categories %}
+  {% capture category_name %}{{ category | first }}{% endcapture %}
+  <h3 id="{{ category_name | cgi_escape }}" class="tag-title">
+    {{ category_name }}
+  </h3>
+  {% for post in site.categories[category_name] %}
+    {% if post.title != null %}
+      <div class="tagged-post">
+        <h4 class="title">
+          <a href="{{ post.url | relative_url }}">
+            {{ post.title }}
+          </a>
+        </h4>
+        <div class="meta">
+          {{ post.date | date: "%B %-d, %Y" }}
+        </div>
+      </div>
+    {% endif %}
+  {% endfor %}
+{% endfor %}

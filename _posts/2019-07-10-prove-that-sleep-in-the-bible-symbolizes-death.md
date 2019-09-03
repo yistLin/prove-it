@@ -2,6 +2,7 @@
 layout: post
 title: "Prove That Sleep in the Bible Symbolizes Death"
 tags: [sleep, death]
+categories: ["Divine Romance"]
 ---
 
 In the Bible we can find the term "sleep" many times and sometimes that does not mean a normal sleep. It is a sleep in which there is no thought, brain activity or life whatsoever.

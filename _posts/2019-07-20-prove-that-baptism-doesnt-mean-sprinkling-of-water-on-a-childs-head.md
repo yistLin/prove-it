@@ -2,6 +2,7 @@
 layout: post
 title: "Prove That Baptism Doesn’t Mean Sprinkling of Water on an Infant’s Head"
 tags: [baptism, sprinkle, water, infant]
+categories: ["Baptism"]
 ---
 
 \[ TO BE UPDATED \]

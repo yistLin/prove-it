@@ -1,0 +1,19 @@
+---
+layout: page
+title: Archives
+permalink: /archives/
+---
+
+{% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%Y %B'" %}
+
+{% for yearMonth in postsByYearMonth %}
+<h3 id="{{ yearMonth.name }}" class="tag-title">{{ yearMonth.name }}</h3>
+<ul class="post-list" aria-label="posts from {{ yearMonth.name }}">
+  {% for post in yearMonth.items %}
+  <li>
+    <span class="day-span">{{ post.date | date: "%-d" }}</span>
+    <span class="post-span"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></span>
+  </li>
+  {% endfor %}
+</ul>
+{% endfor %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Prove That God Wants to Marry Something That Matches Him"
 tags: [God, marry, match]
+categories: ["Divine Romance"]
 ---
 
 People, who want to marry someday, usually want to marry someone who matches them. They want their marriage partner to be around their age or to have similar features. Adam had the same desires. He tried to find a helper as his counterpart but he was without success because all the animals didn't match him. But eventually, he found his counterpart in Eve that was bone of his bones and flesh of his flesh.

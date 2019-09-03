@@ -2,6 +2,7 @@
 layout: post
 title: "Prove That God Is Love"
 tags: [God, love]
+categories: ["Divine Romance"]
 ---
 
 When we state that God is love, we need to prove it with scriptures.

@@ -2,6 +2,7 @@
 layout: post
 title: "Prove That Man Is a Vessel"
 tag: [man, vessel]
+categories: ["Divine Romance"]
 ---
 
 Christians talk about men being God’s creatures or men becoming God’s people.

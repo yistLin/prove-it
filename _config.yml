@@ -81,3 +81,4 @@ remote_theme: rohanchandra/type-theme
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor

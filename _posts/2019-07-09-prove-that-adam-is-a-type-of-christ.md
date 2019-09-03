@@ -2,6 +2,7 @@
 layout: post
 title: "Prove That Adam Is a Type of Christ"
 tags: [Adam, type, Christ]
+categories: ["Divine Romance"]
 ---
 
 1 Corinthians 15:45 says, the last Adam became a life-giving Spirit.

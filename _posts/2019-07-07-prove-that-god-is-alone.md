@@ -2,6 +2,7 @@
 layout: post
 title: "Prove That God Is Alone"
 tags: [God, alone]
+categories: ["Divine Romance"]
 ---
 
 You may know God is almighty and He's the Great Creator.

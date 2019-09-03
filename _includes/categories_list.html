@@ -1,0 +1,7 @@
+{% if include.category_count > 0 %}
+{% for category in include.categories %}
+<li>
+  <a class="category" href="{{ site.baseurl }}/categories#{{ category | cgi_escape }}">{{ category }}</a>
+</li>
+{% endfor %}
+{% endif %}

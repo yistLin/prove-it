@@ -2,6 +2,7 @@
 layout: post
 title: "Prove That Man Was Made to Marry God"
 tags: [man, marry, God]
+categories: ["Divine Romance"]
 ---
 
 Who is God, the Great Creator, to you?

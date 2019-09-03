@@ -2,6 +2,7 @@
 layout: post
 title: "Prove That Being Baptized in a Home Was Something the Apostles Practiced"
 tags: [baptize, home, apostle]
+categories: ["Baptism"]
 ---
 
 \[ TO BE UPDATED \]

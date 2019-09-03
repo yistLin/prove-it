@@ -2,6 +2,7 @@
 layout: post
 title: "Prove That Church Is Female"
 tags: [church, female]
+categories: ["Divine Romance"]
 ---
 
 Christ is about to marry the church as man marries woman.

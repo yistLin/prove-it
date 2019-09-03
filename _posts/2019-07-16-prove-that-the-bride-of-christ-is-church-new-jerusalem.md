@@ -2,6 +2,7 @@
 layout: post
 title: "Prove That the Bride of Christ Is the Church and the New Jerusalem"
 tags: [bride, Christ, church, New Jerusalem]
+categories: ["Divine Romance"]
 ---
 
 \[ TO BE UPDATED \]

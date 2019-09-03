@@ -2,6 +2,7 @@
 layout: post
 title: "Prove That 'Built' Is the Correct Word Translation That Should Be Used in Genesis 2:22 Instead of 'Made', 'Fashioned' or Any Other Word Choice"
 tags: [build, translation]
+categories: ["Divine Romance"]
 ---
 
 In Genesis 2:22, God took the rib from man and made a woman.
