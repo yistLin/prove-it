@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "prove why David was 'a man' after God's own heart"
+title: "Prove why David was 'a man' after God's own heart"
 tags: [David, God's heart]
 ---
 
