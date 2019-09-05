@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "prove how gold represents God the Father"
+title: "Prove how gold represents God the Father"
 tags: [God's building, Gold]
 ---
 
