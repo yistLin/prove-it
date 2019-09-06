@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Prove how bdellium represent the Son"
-tags: [God's building, Gold]
+tags: [God's building, bdellium]
 ---
 
 Num 11:7
