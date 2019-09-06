@@ -13,10 +13,14 @@ layout: default
   <section class="post-content">{{ content }}</section>
   <hr style="border-top: 1px dotted #d0d0d0">
   <footer>
-    <h5>Categories</h5>
-    <ul class="categories">
-      {% include categories_list.html categories=page.categories category_count=page.categories.size %}
-    </ul>
+    {% if page.categories.size > 0 %}
+      <h5>Categories</h5>
+      <ul class="categories">
+        {% include categories_list.html categories=page.categories category_count=page.categories.size %}
+      </ul>
+    {% else %}
+      <h5>No categories</h5>
+    {% endif %}
     <div class="tags">
       {% include tags_list.html tags=page.tags tag_count=page.tags.size %}
     </div>
