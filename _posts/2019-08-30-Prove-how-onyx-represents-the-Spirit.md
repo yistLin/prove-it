@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Prove how onyx represents the Spirit"
-tags: [God's building, Gold]
+tags: [God's building, Precious stones]
 ---
 
 2 Cor 3:17  And the Lord is the Spirit; and where the Spirit of the Lord is, there is freedom.
