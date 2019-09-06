@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Prove how Silver represent the Son and Redemption"
-tags: [God's building, Gold]
+tags: [God's building, Silver]
 ---
 
 Philippians 2:7
