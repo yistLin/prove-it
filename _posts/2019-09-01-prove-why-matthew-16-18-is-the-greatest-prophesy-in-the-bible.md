@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Prove Why Matthew 16:18 Is the Greatest Prophesy in the Bible"
-tags: [Matt 16:18]
+tags: ["Matt 16:18"]
 categories: ["God's Building"]
 ---
 
