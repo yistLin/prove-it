@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove why David was 'a man' after God's own heart"
+title: "Prove Why David Was 'a Man' After God’s Own Heart"
 tags: [David, God's heart]
 ---
 
@@ -15,4 +15,4 @@ Acts 13:22
 1 Kings 8:17
 : And it was on **David my father’s heart to build a house for the name of Jehovah** the God of Israel;
 
-This is how David received the title a man after God's heart
+This is how David received the title a man after God's heart.

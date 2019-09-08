@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Prove that wood is negative"
-tags: [God's building, wood]
+title: "Prove That Wood Is Negative"
+tags: [wood]
+categories: ["God's Building"]
 ---
 
 1 Cor 3:12
@@ -10,17 +11,25 @@ tags: [God's building, wood]
 2 Tim 2:20
 : But in a great house there are not only gold and silver vessels but also wooden and earthen; and some are unto honor, and some unto dishonor.
 
-wood = dishonor
+Wood = dishonor.
 We are vessels. We can be vessels that are gold and silver or vessels that are wooden and earthen.
 
-Earthen = natural. Our natural life equals our natural abilities. What we are naturally good at or capable of. We have a natural abilities to love. However, it is not the love of God. Not a resurrected Love. God still can use our abilities but they need to go through death and resurrection.
+Earthen = natural.
+Our natural life equals our natural abilities.
+What we are naturally good at or capable of.
+We have a natural abilities to love.
+However, it is not the love of God.
+Not a resurrected Love.
+God still can use our abilities but they need to go through death and resurrection.
 
 What is natural?
 
 Matthew 16:21
 : From that time Jesus began to show to His disciples that He must go to Jerusalem and suffer many things from the elders and chief priests and scribes and be killed and on the third day be raised.
+
 Matthew 16:22
 : And Peter took Him aside and began to rebuke Him, saying, **God be merciful to You, Lord! This shall by no means happen to You!**
+
 Matthew 16:23
 : But He turned and **said to Peter, Get behind Me, Satan!** You are a stumbling block to Me, for you are not setting your mind on the things of God, but on the things of men.
 

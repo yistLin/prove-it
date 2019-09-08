@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Prove how bdellium represent the Son"
-tags: [God's building, bdellium]
+title: "Prove How Bdellium Represent the Son"
+tags: [bdellium]
+categories: ["God's Building"]
 ---
 
 Num 11:7
@@ -15,10 +16,13 @@ Bdellium is in the garden of Eden and it comes from a tree. When a tree is cut t
 
 Luke 23:31
 : For if they do these things with the **tree** full of sap, what will happen with the one that is dry?
+
 John 15:1
 : I am the true vine, and My Father is the husbandman.
+
 John 1:4
 : In Him was life, and the life was the light of men.
+
 John 19:34
 : But one of the soldiers pierced His side with a spear, and immediately there came out blood and water.
 

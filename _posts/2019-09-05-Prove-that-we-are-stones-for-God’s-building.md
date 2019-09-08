@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Prove that we are stones for God's building"
-tags: [God's building, stones]
+title: "Prove That We Are Stones for God's Building"
+tags: [stones]
+categories: ["God's Building"]
 ---
 
 1 Peter 2:5

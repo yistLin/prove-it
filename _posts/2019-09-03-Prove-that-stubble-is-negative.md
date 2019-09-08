@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Prove that stubble is negative"
-tags: [God's building, stubble]
+title: "Prove That Stubble Is Negative"
+tags: [stubble]
+categories: ["God's Building"]
 ---
 
 Obadiah 18

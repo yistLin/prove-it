@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove That the Rib Taken From Adam's Side Being a Bone Signifies the Resurrection Life of Christ"
+title: "Prove That the Rib Taken From Adam’s Side Being a Bone Signifies the Resurrection Life of Christ"
 tags: [Adam, bone, resurrection, life, Christ]
 categories: ["Divine Romance"]
 ---
