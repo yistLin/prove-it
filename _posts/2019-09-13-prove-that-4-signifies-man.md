@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Prove that 4 signifies man"
-tags: [God's building, 4 signifies man]
+title: "Prove That 4 Signifies Man"
+tags: [4 signifies man]
+categories: ["God's Building"]
 ---
 
 Ezk 1:5

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Prove that 5 signifies responsibility"
-tags: [God's building, responsibility]
+title: "Prove That 5 Signifies Responsibility"
+tags: [responsibility]
+categories: ["God's Building"]
 ---
 
 - 5 books of God's law and keeping the law implies responsibility.

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Prove that Noah’s ark is a picture of the church being built"
-tags: [God's building, Noah's ark]
+title: "Prove That Noah’s Ark Is a Picture of the Church Being Built"
+tags: [Noah's ark]
+categories: ["God's Building"]
 ---
 
 1 Pet 3:21

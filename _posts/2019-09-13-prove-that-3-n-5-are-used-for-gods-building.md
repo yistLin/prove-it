@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Prove that 3 & 5 are used for God's building"
-tags: [God's building, 3 and 5]
+title: "Prove That 3 & 5 Are Used for God's Building"
+tags: [3 and 5]
+categories: ["God's Building"]
 ---
 
 Gen 6:15

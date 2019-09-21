@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Prove that 3 signifies the triune God"
-tags: [God's building, triune God]
+title: "Prove That 3 Signifies the Triune God"
+tags: [triune God]
+categories: ["God's Building"]
 ---
 
 Matt 28:19

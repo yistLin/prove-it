@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Prove that 3 signifies resurrection"
-tags: [God's building, resurrection]
+title: "Prove That 3 Signifies Resurrection"
+tags: [resurrection]
+categories: ["God's Building"]
 ---
 
 Luke 24:7

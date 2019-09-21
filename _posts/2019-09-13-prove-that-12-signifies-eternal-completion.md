@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Prove that 12 signifies eternal completion"
-tags: [God's building, 12 signifies eternal completion]
+title: "Prove That 12 Signifies Eternal Completion"
+tags: [12 signifies eternal completion]
+categories: ["God's Building"]
 ---
 
 Rev. 21:17
