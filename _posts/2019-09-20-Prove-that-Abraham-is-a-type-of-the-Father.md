@@ -20,7 +20,3 @@ Gen 22:12
 Gen 22:16
 :And said, By Myself I have sworn, declares Jehovah: Because you have done this thing and have not withheld your son, **your only son**,
 
-Genesis 24 two chapters after Genesis where Isaac is sacrificed there is the story of Isaac getting married. In this story
-
-
-Gold signifies the Father. When the servant meets Rebekah he puts on the gold ring on her nose. This signifies the divine nature of God and it is an actual fragrance that we can smell
