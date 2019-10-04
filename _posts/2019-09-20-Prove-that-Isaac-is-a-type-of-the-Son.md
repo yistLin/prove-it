@@ -35,3 +35,6 @@ John 19:17
 
 
 6. Isaac was offered to God as a burnt offering on Mount Moriah; Christ also was offered to God on the same mountain to fulfill the type of burnt offering.
+
+Genesis 24 two chapters after Genesis where Isaac is sacrificed there is the story of Isaac getting married. In this account of the marriage of Isaac, Abraham typifies God the Father, the servant typifies God the Spirit, Isaac typifies God the Son, and Rebekah typifies the chosen people of God, who will marry the Son and become His counterpart. The entire New Testament is a record of the Triune God working together to gain a part of the human race to be the bride, the counterpart, of the Son (John 3:29; 2 Cor. 11:2; Eph. 5:25-32; Rev. 19:7-9; 21:2, 9-10). In eternity past God the Father had an eternal purpose and made an eternal plan to gain the church as a bride for His Son out of the human race (Eph. 3:8-11). Then, in time, God the Father commissioned God the Spirit to carry out His plan by going to contact the chosen bride and bring her to God the Son to be His counterpart, His wife.
+
