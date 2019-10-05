@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove That Abraham Is a Type of the Father "
+title: "Prove That Abraham Is a Type of the Father"
 tags: [God of Abraham, Isaac, and Jacob, Father Abraham]
 ---
 

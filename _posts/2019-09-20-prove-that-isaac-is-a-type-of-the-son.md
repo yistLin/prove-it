@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove That Isaac Is a Type of the Son "
+title: "Prove That Isaac Is a Type of the Son"
 tags: [God of Abraham, Isaac, and Jacob, Son Isaac]
 ---
 
@@ -44,7 +44,7 @@ tags: [God of Abraham, Isaac, and Jacob, Son Isaac]
    John 19:17
    : And bearing the cross for Himself, He went out to the place called the Place of a Skull, which is called in Hebrew, Golgotha,
 
-6) Isaac was offered to God as a burnt offering on Mount Moriah; Christ also was offered to God on the same mountain to fulfill the type of burnt offering.
+6. Isaac was offered to God as a burnt offering on Mount Moriah; Christ also was offered to God on the same mountain to fulfill the type of burnt offering.
 
 Genesis 24 two chapters after Genesis where Isaac is sacrificed there is the story of Isaac getting married.
 In this account of the marriage of Isaac, Abraham typifies God the Father, the servant typifies God the Spirit, Isaac typifies God the Son, and Rebekah typifies the chosen people of God, who will marry the Son and become His counterpart.
