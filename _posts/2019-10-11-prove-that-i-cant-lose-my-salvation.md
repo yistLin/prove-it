@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove that I can't lose my salvation"
+title: "Prove That I Can't Lose My Salvation"
 tags: [salvation, lose]
 ---
 

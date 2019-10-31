@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove That Jacob represents a picture of the Spirit transforming us."
+title: "Prove That Jacob Represents a Picture of the Spirit Transforming Us"
 tags: [God of Abraham, Isaac, and Jacob, transformation]
 ---
 
@@ -13,5 +13,4 @@ Genesis 32:28
 2 Corinthians 3:18
 : But we all with unveiled face, beholding and reflecting like a mirror the glory of the Lord, are being transformed into the same image from glory to glory, even as from the Lord Spirit.
 
-
-Genesis 32:25-33 Here we see that Jakob is being transformed during his "wrestling" with God. 
+Genesis 32:25-33 Here we see that Jacob is being transformed during his "wrestling" with God.

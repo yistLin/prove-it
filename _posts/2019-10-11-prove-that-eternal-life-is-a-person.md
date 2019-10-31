@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove that eternal life is a person, God Himself"
+title: "Prove That Eternal Life Is a Person, God Himself"
 tags: [eternal life, person]
 ---
 
@@ -20,16 +20,16 @@ John 5:24
 : That which was from the beginning, which we have heard, which we have seen with our eyes, which we beheld and our hands handled, concerning the Word of life
 
 1 John 1:2
-:  (And the life was manifested, and we have seen and testify and report to you the eternal life, which was with the Father and was manifested to us);
+: (And the life was manifested, and we have seen and testify and report to you the eternal life, which was with the Father and was manifested to us);
 
 Matthew 22:32
-:  “I am the God of Abraham and the God of Isaac and the God of Jacob”? He is not the God of the dead, but of the living.
+: “I am the God of Abraham and the God of Isaac and the God of Jacob”? He is not the God of the dead, but of the living.
 
 John 5:39
 : You search the Scriptures, because you think that in them you have eternal life; and it is these that testify concerning Me.
 
 John 5:40
-:  Yet you are not willing to come to Me that you may have life.
+: Yet you are not willing to come to Me that you may have life.
 
 John 17:3
 : And this is eternal life, that they may know You, the only true God, and Him whom You have sent, Jesus Christ.
