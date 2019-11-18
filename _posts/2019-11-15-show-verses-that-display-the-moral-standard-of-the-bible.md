@@ -5,7 +5,8 @@ tags: [moral standard, Bible]
 categories: ["The Word of God"]
 ---
 
-Anything you create is in some way a reflection of yourself. Thus, there needs to be a moral standard in the Bible that it can still be authored by God.
+Anything you create is in some way a reflection of yourself.
+Thus, there needs to be a moral standard in the Bible that it can still be authored by God.
 
 Matthew 5:17-48
 

@@ -17,4 +17,4 @@ John 3:6
 Every man has a human spirit whether he is a believer or not.
 
 Zechariah 12:1
-:  The burden of the word of Jehovah concerning Israel. Thus declares Jehovah, who stretches forth the heavens and lays the foundations of the earth and forms the spirit of man within him,
+: The burden of the word of Jehovah concerning Israel. Thus declares Jehovah, who stretches forth the heavens and lays the foundations of the earth and forms the spirit of man within him,

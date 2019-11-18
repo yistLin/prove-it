@@ -30,4 +30,4 @@ Revelation 22:18
 : Which things also we speak, not in words taught by human wisdom but in words taught by the Spirit, interpreting spiritual things with spiritual words.
 
 Galatians 1:12
-:  For neither did I receive it from man, nor was I taught it, but I received it through a revelation by Jesus Christ.
+: For neither did I receive it from man, nor was I taught it, but I received it through a revelation by Jesus Christ.

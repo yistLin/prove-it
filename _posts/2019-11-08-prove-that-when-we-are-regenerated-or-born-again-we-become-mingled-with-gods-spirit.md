@@ -15,7 +15,7 @@ John 3:6
 : That which is born of the flesh is flesh, and that which is born of the Spirit is spirit.
 
 Romans 8:15
-:  For you have not received a spirit of slavery bringing you into fear again, but you have received a spirit of sonship in which we cry, Abba, Father!
+: For you have not received a spirit of slavery bringing you into fear again, but you have received a spirit of sonship in which we cry, Abba, Father!
 
 Romans 8:16
 : The Spirit Himself witnesses with our spirit that we are children of God.

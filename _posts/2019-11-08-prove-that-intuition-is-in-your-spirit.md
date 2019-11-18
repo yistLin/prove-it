@@ -15,7 +15,7 @@ Mark 2:8
 : But the spiritual man discerns all things, but he himself is discerned by no one.
 
 John 16:12
-:  I have yet many things to say to you, but you cannot bear them now.
+: I have yet many things to say to you, but you cannot bear them now.
 
 John 16:13
 : But when He, the Spirit of reality, comes, He will guide you into all the reality; for He will not speak from Himself, but what He hears He will speak; and He will declare to you the things that are coming.

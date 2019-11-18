@@ -5,7 +5,7 @@ tags: [mind, emotion, will, soul]
 categories: ["Three Parts of Man"]
 ---
 
-Mind:
+#### Mind
 
 Psalms 139:14
 : I will praise You, for I am awesomely and wonderfully made; / Your works are wonderful, / And my soul knows it well.
@@ -16,7 +16,7 @@ Philippians 2:2
 Lamentations 3:20
 : My soul remembers them well / And is bowed down within me.
 
-Emotion:
+#### Emotion
 
 Numbers 21:5
 : And the people spoke against God and against Moses, Why have you brought us up out of Egypt to die in the wilderness? For there is no food and there is no water; and our soul loathes this light bread.
@@ -33,7 +33,7 @@ Psalms 42:1
 John 12:27
 : Now is My soul troubled; and what shall I say? Father, save Me out of this hour. But for this reason I have come to this hour.
 
-Will:
+#### Will
 
 Job 17:15
 : So that my soul would choose strangulation / And death rather than my bones.
