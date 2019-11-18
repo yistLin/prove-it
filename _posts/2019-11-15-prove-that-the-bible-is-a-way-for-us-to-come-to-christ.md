@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove that the Bible is a way for us to come to Christ"
+title: "Prove That the Bible Is a Way for Us to Come to Christ"
 tags: [come to Christ, Bible]
 categories: ["The Word of God"]
 ---

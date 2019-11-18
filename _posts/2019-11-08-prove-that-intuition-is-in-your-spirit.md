@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove that intuition is in your spirit"
+title: "Prove That Intuition Is in Your Spirit"
 tags: [spirit, intuition]
 categories: ["Three Parts of Man"]
 ---

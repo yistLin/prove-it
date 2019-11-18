@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove that the Bible itself claims to be authored by God"
+title: "Prove That the Bible Itself Claims to Be Authored by God"
 tags: [Bible, authored by God]
 categories: ["The Word of God"]
 ---

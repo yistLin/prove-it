@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove that when we are regenerated or born again we become mingled with God's Spirit and the two become one"
+title: "Prove That When We Are Regenerated or Born Again We Become Mingled with God's Spirit and the Two Become One"
 tags: [mingle, Spirit, become one]
 categories: ["Three Parts of Man"]
 ---

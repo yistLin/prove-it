@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove that the soul and spirit are not the same"
+title: "Prove That the Soul and Spirit Are Not the Same"
 tags: [soul, spirit]
 categories: ["Three Parts of Man"]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove that the conscience is in your spirit"
+title: "Prove That the Conscience Is in Your Spirit"
 tags: [conscience, spirit]
 categories: ["Three Parts of Man"]
 ---

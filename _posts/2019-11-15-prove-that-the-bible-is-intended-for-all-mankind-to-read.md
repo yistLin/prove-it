@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove that the Bible is intended for all mankind to read"
+title: "Prove That the Bible Is Intended for All Mankind to Read"
 tags: [Bible, all mankind, read]
 categories: ["The Word of God"]
 ---

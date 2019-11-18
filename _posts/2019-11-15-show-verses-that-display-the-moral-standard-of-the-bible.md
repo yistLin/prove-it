@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Show verses that display the moral standard of the Bible"
+title: "Show Verses That Display the Moral Standard of the Bible"
 tags: [moral standard, Bible]
 categories: ["The Word of God"]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove that fellowship is in your spirit"
+title: "Prove That Fellowship Is in Your Spirit"
 tags: [spirit, fellowship]
 categories: ["Three Parts of Man"]
 ---

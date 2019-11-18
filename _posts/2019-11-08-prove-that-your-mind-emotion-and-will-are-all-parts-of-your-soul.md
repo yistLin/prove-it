@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove that your mind, emotion and will are all parts of your soul"
+title: "Prove That Your Mind, Emotion and Will Are All Parts of Your Soul"
 tags: [mind, emotion, will, soul]
 categories: ["Three Parts of Man"]
 ---

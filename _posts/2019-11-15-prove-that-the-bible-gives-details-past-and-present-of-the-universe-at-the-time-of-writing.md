@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove that the Bible gives details past and present of the universe, or other things that would be scientifically unknowable at the time of writing"
+title: "Prove That the Bible Gives Details past and Present of the Universe, or Other Things That Would Be Scientifically Unknowable at the Time of Writing"
 tags: [scientifically unknowable, universe, details, time of writing]
 categories: ["The Word of God"]
 ---

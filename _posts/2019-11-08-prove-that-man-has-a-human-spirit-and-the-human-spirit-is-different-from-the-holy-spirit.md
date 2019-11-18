@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove that man has a human spirit and the human spirit is different from the Holy Spirit"
+title: "Prove That Man Has a Human Spirit and the Human Spirit Is Different from the Holy Spirit"
 tags: [Holy Spirit, spirit of man]
 categories: ["Three Parts of Man"]
 ---

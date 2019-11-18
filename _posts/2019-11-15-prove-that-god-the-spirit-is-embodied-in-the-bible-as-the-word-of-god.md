@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prove that God the Spirit is embodied in the Bible as the Word of God"
+title: "Prove That God the Spirit Is Embodied in the Bible as the Word of God"
 tags: [Bible, Spirit, embodied]
 categories: ["The Word of God"]
 ---
