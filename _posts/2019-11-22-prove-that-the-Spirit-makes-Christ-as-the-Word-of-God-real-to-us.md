@@ -16,6 +16,9 @@ John 14:20
 
 
 1 John 5:6
+
 1 John 5:9
+
 Romans 8
+
 John 14:17
