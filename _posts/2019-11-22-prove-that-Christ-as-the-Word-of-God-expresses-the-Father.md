@@ -18,11 +18,11 @@ John 14:9
 : Jesus said to him, Have I been so long a time with you, and you have not known Me, Philip? He who has seen Me has seen the Father; how is it that you say, Show us the Father?
 
 
-Ephesians 1:3
-Isaiah 9:6
-Matthew 11:27
-John 10:30
-Hebrews 1:2-3
-Colossians 1:15
-John 14:24
+Ephesians 1:3;
+Isaiah 9:6;
+Matthew 11:27;
+John 10:30;
+Hebrews 1:2-3;
+Colossians 1:15;
+John 14:24;
 John 14:10
