@@ -15,6 +15,6 @@ Hebrews 4:12
 : And the God of peace Himself sanctify you wholly, and may your spirit and soul and body be preserved complete, without blame, at the coming of our Lord Jesus Christ.
 
 
-Philippians 1:27
-Luke 1:46-47
+Philippians 1:27;
+Luke 1:46-47;
 Isaiah 26:9
