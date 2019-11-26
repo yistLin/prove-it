@@ -18,8 +18,8 @@ Acts 1:16
 : But we have received not the spirit of the world but the Spirit which is from God, that we may know the things which have been graciously given to us by God;
 
 
-1 Corinthians 2:13
-Galatians 1:12
-1 Peter 1:10
-1 Peter 1:11
+1 Corinthians 2:13;
+Galatians 1:12;
+1 Peter 1:10;
+1 Peter 1:11;
 Revelation 22:18
