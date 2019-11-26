@@ -15,5 +15,5 @@ Ephesians 6:17
 : The Spirit of Jehovah spoke through me, / And His word was on my tongue.
 
 
-John 6:63
+John 6:63;
 Hebrews 4:12
