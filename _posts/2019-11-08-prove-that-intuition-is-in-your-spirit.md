@@ -18,7 +18,7 @@ Ephesians 1:17
 : That the God of our Lord Jesus Christ, the Father of glory, may give to you a spirit of wisdom and revelation in the full knowledge of Him,
 
 
-John 16:12
-1 Corinthians 2:11
-1 Corinthians 2:15
+John 16:12;
+1 Corinthians 2:11;
+1 Corinthians 2:15;
 John 17:3
