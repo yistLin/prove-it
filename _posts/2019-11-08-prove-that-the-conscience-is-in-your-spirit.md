@@ -18,6 +18,6 @@ Psalms 51:17
 : The sacrifices of God are a broken spirit; / A broken and a contrite heart, O God, You will not despise.
 
 
-Romans 1:9
-Hebrews 9:14
+Romans 1:9;
+Hebrews 9:14;
 Deuteronomy 2:30
