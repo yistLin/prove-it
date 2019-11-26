@@ -20,6 +20,6 @@ Matthew 22:44
 : “The Lord said to my Lord, Sit at My right hand until I put Your enemies underneath Your feet”?
 
 
-1 Peter 2:2
-Matthew 28:19-20
+1 Peter 2:2;
+Matthew 28:19-20;
 Revelation 1:3
