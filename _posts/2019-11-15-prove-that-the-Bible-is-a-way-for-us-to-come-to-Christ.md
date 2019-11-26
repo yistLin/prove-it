@@ -15,5 +15,5 @@ Matthew 2:5
 : And they said to him, In Bethlehem of Judea, for so it is written through the prophet:
 
 
-Matthew 2:6
+Matthew 2:6;
 Acts 8:35
