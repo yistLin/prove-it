@@ -15,10 +15,7 @@ John 14:20
 : In that day you will know that I am in My Father, and you in Me, and I in you.
 
 
-1 John 5:6
-
-1 John 5:9
-
-Romans 8
-
+1 John 5:6;
+1 John 5:9;
+Romans 8;
 John 14:17
