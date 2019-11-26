@@ -11,7 +11,7 @@ Psalms 139:14
 : I will praise You, for I am awesomely and wonderfully made; / Your works are wonderful, / And my soul knows it well.
 
 
-Philippians 2:2
+Philippians 2:2;
 Lamentations 3:20
 
 Emotion:
@@ -23,8 +23,8 @@ John 12:27
 : Now is My soul troubled; and what shall I say? Father, save Me out of this hour. But for this reason I have come to this hour.
 
 
-Psalms 86:4
-Psalms 42:1
+Psalms 86:4;
+Psalms 42:1;
 Numbers 21:5
 
 Will:
