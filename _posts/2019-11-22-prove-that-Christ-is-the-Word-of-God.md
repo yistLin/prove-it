@@ -18,6 +18,6 @@ Hebrews 1:2
 : Has at the last of these days spoken to us in the Son, whom He appointed Heir of all things, through whom also He made the universe;
 
 
-Acts 10:36
-1 John 1:1
+Acts 10:36;
+1 John 1:1;
 1 John 1:2
